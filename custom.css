@@ -1,0 +1,16 @@
+.bible-verse-wrapper {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.bible-verse-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.bible-verse-reference {
+  font-size: 18px;
+  color: #cccccc;
+  margin-top: 5px;
+}
