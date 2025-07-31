@@ -1,4 +1,4 @@
-Module.register("MMM-DailyBibleVerse", {
+Module.register("MMM-DailyBread", {
     defaults: {
         updateInterval: 24 * 60 * 60 * 1000,
         fadeSpeed: 2000,
